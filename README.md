@@ -8,4 +8,4 @@
 
 [lesson-8](https://m1nimina.github.io/lesson-8/src/index.html) - сделали 6 картинок в ряд на Bootstrap
 
-[lesson-9](https://m1nimina.github.io/lesson-9/src/index.html) - тот де урок №7 только все в бутстрапе
+[lesson-9](https://m1nimina.github.io/lesson-9/src/index.html) - тот же урок №7 только все в бутстрапе
